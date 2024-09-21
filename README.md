@@ -15,3 +15,6 @@ O objetivo desse código é achar a solução ótima para a programação de pro
 - Três máquinas operando 8 horas por turno;
 - Objetivo de 8400 peças ao final de cada turno;
 - Capacidade de 350 peças/hora
+---
+## ARTIGO
+[Pesquisa Operacional](https://www.linkedin.com/posts/yara-de-oliveira-rufino_pesquisa-operacional-activity-7199469135532093440-cmEw/?utm_source=share&utm_medium=member_desktop)
